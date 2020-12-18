@@ -1,2 +1,6 @@
-# Brew-on-goinfre
-sh setup.sh
+# Install or Move brew to goinfre
+sh brew2goinfre.sh
+
+
+# Install or Move Minikube & Kubectl to goinfre
+sh kube2goinfre.sh
