@@ -5,7 +5,7 @@ brew install minikube
 brew install docker
 ln -s /goinfre/$USERNAME ~/goinfre
 mv ~/.brew /goinfre/$USERNAME/
-#ln -s ~/goinfre/$USERNAME/.brew ~/.brew
+ln -s ~/goinfre/$USERNAME/.brew ~/.brew
 #mv ~/.docker /goinfre/$USERNAME/
 #ln -s ~/goinfre/$USERNAME/.docker ~/.docker
 brew install docker-machine
