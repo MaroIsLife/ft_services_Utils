@@ -1,5 +1,5 @@
 # Test by deleting service/deployment then build and recreate the service/deployment without restarting the cluster.
-test.sh [CONTAINER NAME]
+test.sh [IMAGE NAME]
 
 # Install and Move brew to goinfre
 sh brew2goinfre.sh
