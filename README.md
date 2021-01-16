@@ -1,4 +1,4 @@
-# Test by Deleting Service and Deployment then build and recreate the service and Deployment without Restarting the Cluster.
+# Test by deleting service/deployment then build and recreate the service/deployment without restarting the cluster.
 test.sh [CONTAINER NAME]
 
 # Install and Move brew to goinfre
