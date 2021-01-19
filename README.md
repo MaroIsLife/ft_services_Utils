@@ -10,10 +10,10 @@ sh kill.sh [DEPLOYMENT NAME] [APP NAME]
 # Install and Move brew to goinfre
 sh brew2goinfre.sh
 
-# Install and Move Minikube & Kubectl to goinfre
+# Kube2goinfre.sh: Install and Move Minikube & Kubectl to goinfre
 sh kube2goinfre.sh
 
-# Start a cluster using Minikube
+# nodestart.sh: Start a cluster using Minikube and Docker-machine
 sh nodestart.sh
 
 # Delete all Deployments, Services and PV Claims
