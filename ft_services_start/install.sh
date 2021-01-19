@@ -9,5 +9,5 @@ mv ~/.brew /goinfre/$USERNAME/
 ln -s ~/goinfre/$USERNAME/.brew ~/.brew
 #mv ~/.docker /goinfre/$USERNAME/
 #ln -s ~/goinfre/$USERNAME/.docker ~/.docker
-docker-machine create --driver virtualbox default
-sh envdocker.sh
+# docker-machine create --driver virtualbox default
+# sh envdocker.sh
